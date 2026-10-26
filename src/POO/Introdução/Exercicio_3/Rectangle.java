@@ -1,4 +1,4 @@
-package POO.Exercicio_3;
+package POO.Introdução.Exercicio_3;
 
 public class Rectangle {
     double width;

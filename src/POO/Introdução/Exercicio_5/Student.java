@@ -1,4 +1,4 @@
-package POO.Exercicio_5;
+package POO.Introdução.Exercicio_5;
 
 public class Student {
     public String name;

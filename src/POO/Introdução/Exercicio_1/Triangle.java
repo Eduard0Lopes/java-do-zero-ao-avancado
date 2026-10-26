@@ -1,4 +1,4 @@
-package POO.Exercicio_1;
+package POO.Introdução.Exercicio_1;
 
 public class Triangle {
     public double a;

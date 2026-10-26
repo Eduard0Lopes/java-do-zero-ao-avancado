@@ -1,4 +1,4 @@
-package POO.Exercicio_Static.V1;
+package POO.Introdução.Exercicio_Static.V1;
 
 import java.util.Locale;
 import java.util.Scanner;
